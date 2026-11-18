@@ -1,41 +1,40 @@
-<div align="center">
+ <div align="center">
 
-# Présentation technique 
+# Technical Showcase
 
 **Stéphane Morel · Gameplay Programmer · Godot 4 / GDScript**
 
-[**Explorer mes réalisations techniques**](https://steph4477.github.io/IslandEvolution-Tech/)
+**[Explore My Technical Work](https://steph4477.github.io/IslandEvolution-Tech/)**
 
-Architecture modulaire, systèmes de gameplay, débogage et développement Android à travers le projet **Island Evolution**.
+Modular architecture, gameplay systems, debugging, and Android development through the **Island Evolution** project.
 
 </div>
 
+### Overview
 
-### Présentation
+![Godot developer technical showcase homepage](docs/screenshots/accueil.png)
 
-![Accueil du portfolio de développeur Godot](docs/screenshots/accueil.png)
+### Software Architecture
 
-### Architecture logicielle
+![GameState diagram and game systems architecture](docs/screenshots/architecture.png)
 
-![Diagramme GameState et organisation des systèmes de jeu](docs/screenshots/architecture.png)
+### Gameplay Systems & Debugging
 
-### Systèmes de gameplay et débogage
+![Gameplay systems and debugging overview](docs/screenshots/gameplay.png)
 
-![Présentation des systèmes de gameplay et du débogage](docs/screenshots/gameplay.png)
+### Android Development
 
-### Développement Android
-
-![Présentation des contraintes et tests Android](docs/screenshots/android.png)
+![Android development, optimization and device testing](docs/screenshots/android.png)
 
 ## Technologies
 
-**Portfolio :** SvelteKit · TypeScript · SCSS · GitHub Pages  
-**Jeu présenté :** Godot 4 · GDScript · Android
+**Technical Showcase:** SvelteKit · TypeScript · SCSS · GitHub Pages  
+**Featured Game:** Godot 4 · GDScript · Android
 
 ---
 
 <div align="center">
 
-**[Explorer mes réalisations techniques](https://steph4477.github.io/IslandEvolution-Tech/)** · **[Découvrir le site officiel d’Island Evolution](https://steph4477.github.io/IslandEvolution-Website/)**
+**[Explore My Technical Work](https://steph4477.github.io/IslandEvolution-Tech/)** · **[Discover the Official Island Evolution Website](https://steph4477.github.io/IslandEvolution-Website/)**
 
 </div>

@@ -4,7 +4,7 @@
 
 **Stéphane Morel · Gameplay Programmer · Godot 4 / GDScript**
 
-[**Explorer mes réalisations techniques**](https://steph4477.github.io/)
+[**Explorer mes réalisations techniques**](https://steph4477.github.io/IslandEvolution-Tech/)
 
 Architecture modulaire, systèmes de gameplay, débogage et développement Android à travers le projet **Island Evolution**.
 
@@ -36,6 +36,6 @@ Architecture modulaire, systèmes de gameplay, débogage et développement Andro
 
 <div align="center">
 
-**[Explorer mes réalisations techniques](https://steph4477.github.io/)** · **[Découvrir le site officiel d’Island Evolution](https://steph4477.github.io/IslandEvolution-Website/)**
+**[Explorer mes réalisations techniques](https://steph4477.github.io/IslandEvolution-Tech/)** · **[Découvrir le site officiel d’Island Evolution](https://steph4477.github.io/IslandEvolution-Website/)**
 
 </div>

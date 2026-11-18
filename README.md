@@ -12,7 +12,7 @@ Modular architecture, gameplay systems, debugging, and Android development throu
 
 ### Overview
 
-![Godot developer technical showcase homepage](docs/screenshots/accueil.png)
+![Godot developer technical showcase homepage](docs/screenshots/home.png)
 
 ### Software Architecture
 

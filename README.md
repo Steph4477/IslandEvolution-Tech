@@ -4,7 +4,7 @@
 
 **Stéphane Morel · Gameplay Programmer · Godot 4 / GDScript**
 
-**[Explore My Technical Work](https://steph4477.github.io/IslandEvolution-Tech/)**
+**[Explore My Technical Work](https://tech.moko-islandevolution.com/)**
 
 Modular architecture, gameplay systems, debugging, and Android development through the **Island Evolution** project.
 
@@ -35,6 +35,6 @@ Modular architecture, gameplay systems, debugging, and Android development throu
 
 <div align="center">
 
-**[Explore My Technical Work](https://steph4477.github.io/IslandEvolution-Tech/)** · **[Discover the Official Island Evolution Website](https://steph4477.github.io/IslandEvolution-Website/)**
+**[Explore My Technical Work](https://tech.moko-islandevolution.com/)** - **[Discover the Official Island Evolution Website](https://moko-islandevolution.com/)**
 
 </div>
